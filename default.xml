@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+<remote name="github"
+fetch="https://github.com/"/>
+<projectpath="testlocaldir" name="georgeunreal/test" remote="github" revision="master"/>
+<projectpath="testlocaldir2" name="georgeunreal/test2" remote="github" revision="master"/>
+</manifest>
