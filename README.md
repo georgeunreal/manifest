@@ -1,3 +1,3 @@
 # manifest
-manifest quaqna
+manifest
 repo init -ugit://github.com/georgeunreal/manifest.git -b master
