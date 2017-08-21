@@ -3,4 +3,5 @@
 <remote name="github"
 fetch="https://github.com/"/>
 <project path="arduino-ros-twist" name="georgeunreal/Arduino-ROS-Twist-Keyboard" remote="github" revision="master"/>
+<project path="arduino-ros-ultrasonic" name="georgeunreal/Arduino-ROS-Ultrasonic" remote="github" revision="master"/>
 </manifest>
