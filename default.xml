@@ -2,6 +2,5 @@
 <manifest>
 <remote name="github"
 fetch="https://github.com/"/>
-<project path="testlocaldir" name="georgeunreal/test" remote="github" revision="master"/>
-<project path="testlocaldir2" name="georgeunreal/test2" remote="github" revision="master"/>
+<project path="arduino-ros-twist" name="georgeunreal/Arduino-ROS-Twist-Keyboard" remote="github" revision="master"/>
 </manifest>
